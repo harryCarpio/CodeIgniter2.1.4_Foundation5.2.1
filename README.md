@@ -5,7 +5,7 @@ Codeigniter with responsive framework Foundation.
 
 Check changes in:
 
-application/controllers/welcome.php
+application/controllers/welcome.php <br/>
 application/views/welcome_view.php
 assets/plugins
 
