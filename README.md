@@ -6,6 +6,6 @@ Codeigniter with responsive framework Foundation.
 Check changes in:
 
 application/controllers/welcome.php <br/>
-application/views/welcome_view.php
+application/views/welcome_view.php <br/>
 assets/plugins
 
