@@ -15,4 +15,6 @@ application/views/welcome_view.php <br/>
 assets/plugins
 </ul>
 </li>
-
+<br/><br/>
+<b>CodeIgniter:</b> http://ellislab.com/codeigniter <br/>
+<b>Foundation:</b> http://foundation.zurb.com/
